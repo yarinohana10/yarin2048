@@ -4,8 +4,6 @@ from fastapi import FastAPI, HTTPException
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 
-
-import requests
 app = FastAPI()
 
 origins = ["*"]
