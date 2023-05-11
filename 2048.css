@@ -1,0 +1,173 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+hr{
+    width: 500px;
+}
+
+
+
+#board {
+    width: 400px;
+    height: 400px;
+
+    background-color: #b5cdc3b5;
+    border: 6px solid #a0bba5;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 5px solid #bbada0;
+
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/*
+.x2 {
+    background-color: #eee4da;
+    color: white;
+}
+
+.x4 {
+    background-color: #ece0ca;
+    color: white;
+}
+
+.x8 {
+    background-color: #f4b17a;
+    color: white;
+}
+
+.x16 {
+    background-color: #f59575;
+    color: white;
+}
+
+.x32 {
+    background-color: #f57c5f;
+    color: white;
+}
+
+.x64 {
+    background-color: #f65d3b;
+    color: white;
+}
+
+.x128 {
+    background-color: #edce71;
+    color: white;
+}
+
+.x256 {
+    background-color: #edcc63;
+    color: white;
+}
+
+.x512 {
+    background-color: #edc651;
+    color: white;
+}
+
+.x1024 {
+    background-color: #eec744;
+    color: white;
+}
+
+.x2048 {
+    background-color: #ecc230;
+    color: white;
+}
+
+.x4096 {
+    background-color: #fe3d3d;
+    color: white;
+}
+
+.x8192 {
+    background-color: #ff2020;
+    color: white;
+}
+*/
+
+.x2 {
+    background-color: #ffa94d;
+    color: white;
+}
+
+.x4 {
+    background-color: #ffd43b;
+    color: white;
+}
+
+.x8 {
+    background-color: #a9e24b;
+    color: white;
+}
+
+.x16 {
+    background-color: #69da7c;
+    color: white;
+}
+
+.x32 {
+    background-color: #38d9a9;
+    color: white;
+}
+
+.x64 {
+    background-color: #2cbfd2;
+    color: white;
+}
+
+.x128 {
+    background-color: #4dabf7;
+    color: white;
+}
+
+.x256 {
+    background-color: #748ffc;
+    color: white;
+}
+
+.x512 {
+    background-color: #9775fa;
+    color: white;
+}
+
+.x1024 {
+    background-color: #da77f2;
+    color: white;
+}
+
+.x2048 {
+    background-color: #f783ab;
+    color: white;
+}
+
+.x4096 {
+    background-color: #fe3d3d;
+    color: white;
+}
+
+.x8192 {
+    background-color: #ff2020;
+    color: white;
+}
+
+
+
